@@ -53,17 +53,26 @@ h1,h2{
 
 
 
-      img {
+      .imgtexto {
 
            width: 60%
 
       }
+      .imglogo {
+
+        width: 24%;
+        text-decoration: underline;
+        font-style: none;
+
+
+       }
 
  ul li {
              text-decoration: underline;
              color: #fff;
              font-weight: bolder;
-             font-size: 20px
+             font-size: 20px;
+             font-style: none;
 
       }
 
